@@ -1,6 +1,7 @@
 demo url: http://yii.com/index.php?r=supplier%2Findex
-![img.png](img.png)
-![img_1.png](img_1.png)
+![输入图片说明](assets/20220629121101.png)
+![输入图片说明](assets/20220629121046.png)
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
